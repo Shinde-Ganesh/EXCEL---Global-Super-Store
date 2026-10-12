@@ -1,5 +1,10 @@
-# EXCEL---Global-Super-Store
+# EXCEL-Global-Super-Store
 Excel Dashboard from Raw Data for Global Super Store 
+
+**Dashboard Screenshot**
+
+<img width="960" height="430" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/34970f70-5eeb-4473-8251-916254c7f1e9" />
+
 
 
 **Key Performance Indicators (KPIs)**
