@@ -3,7 +3,8 @@ Excel Dashboard from Raw Data for Global Super Store
 
 **Dashboard Screenshot**
 
-<img width="960" height="430" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/34970f70-5eeb-4473-8251-916254c7f1e9" />
+<img width="1311" height="602" alt="image" src="https://github.com/user-attachments/assets/50fb68e9-db3e-48c9-bd28-585dd8d1dd1a" />
+
 
 
 
